@@ -1,0 +1,6 @@
+local.el
+session.*
+*~
+game/
+tramp
+auto-save-list/
