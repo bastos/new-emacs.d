@@ -2,10 +2,11 @@
                     (or (buffer-file-name) load-file-name)))
 
 (add-to-list 'load-path dotfiles-dir)
-(add-to-list 'load-path "gist.el")
-(add-to-list 'load-path "textmate.el")
+(add-to-list 'load-path "~/.emacs.d/gist.el")
+(add-to-list 'load-path "~/.emacs.d/textmate.el")
 (require 'ruby-init)
 (require 'find-recursive)
 (require 'gist)
 (require 'textmate)
+(require 'io-mode)
 (textmate-mode)
