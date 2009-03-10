@@ -10,3 +10,5 @@ In my ~.emacs
 Sources
 =======
 http://github.com/technomancy/emacs-starter-kit/tree/master
+
+Now just works with Aquamacs...
