@@ -9,4 +9,5 @@
 (require 'gist)
 (require 'textmate)
 (require 'io-mode)
+(require 'lua-init)
 (textmate-mode)
