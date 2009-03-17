@@ -10,4 +10,5 @@
 (require 'textmate)
 (require 'io-mode)
 (require 'lua-init)
+(require 'ack)
 (textmate-mode)
